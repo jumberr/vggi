@@ -1,8 +1,8 @@
 # VGGI PA2
 
-![plot](./PA2/img/screen-3.jpg)
+![plot](./PA2/img/screen-3.png)
 
-![plot](./PA2/img/screen-4.jpg)
+![plot](./PA2/img/screen-4.png)
 
 # VGGI PA1
 
