@@ -1,3 +1,9 @@
+# VGGI CGW
+
+![plot](./CGW/img/screenshot-1.png)
+
+![plot](./CGW/img/screenshot-2.png)
+
 # VGGI PA3
 
 ![plot](./PA3/img/Screenshot-PA3-1.png)
