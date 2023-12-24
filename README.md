@@ -1,3 +1,9 @@
+# VGGI PA3
+
+![plot](./PA3/img/Screenshot-PA3-1.png)
+
+![plot](./PA3/img/Screenshot-PA3-2.png)
+
 # VGGI PA2
 
 ![plot](./PA2/img/screen-3.png)
